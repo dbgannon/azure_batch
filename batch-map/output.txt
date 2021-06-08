@@ -1,0 +1,32 @@
+Success! All tasks reached the 'Completed' state within 
+the specified timeout period.
+Printing task output...
+
+Task: Task_1
+Standard output:
+Hostname: a96dbf6cc5fe4405bad0fb13110f68ca000000
+Host IP: 10.0.0.4
+hi, this is taskdata 0.
+
+Task: Task_2
+Standard output:
+Hostname: a96dbf6cc5fe4405bad0fb13110f68ca000001
+Host IP: 10.0.0.5
+And now we have task data 1.
+
+Task: Task_3
+Standard output:
+Hostname: a96dbf6cc5fe4405bad0fb13110f68ca000000
+Host IP: 10.0.0.4
+task data 2 is the third one.
+
+Task: Task_4
+Standard output:
+Hostname: a96dbf6cc5fe4405bad0fb13110f68ca000001
+Host IP: 10.0.0.5
+the final one is task data 3
+
+Deleting container [input]...
+
+Sample end: 2021-06-05 11:01:40
+Elapsed time: 0:02:49
