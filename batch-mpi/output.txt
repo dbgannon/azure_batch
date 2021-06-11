@@ -1,0 +1,33 @@
+/mnt/resource/batch/tasks/workitems/job-pool_linux_experiment-20210610-233345/job-1/task_linux_experiment-20210610-233345/wd
+total 24
+drwx------. 2 _azbatch _azbatchgrp 4096 Jun 10 23:37 certs
+-rwxrwx---. 1 _azbatch _azbatchgrp   59 Jun 10 23:37 coordination-cmd
+-rwxrwx---. 1 _azbatch _azbatchgrp   33 Jun 10 23:37 numbers.txt
+-rwxrwx---. 1 _azbatch _azbatchgrp   26 Jun 10 23:37 numbers2.txt
+-rw-r--r--. 1 _azbatch _azbatchgrp    0 Jun 10 23:37 stderr.txt
+-rw-r--r--. 1 _azbatch _azbatchgrp  125 Jun 10 23:37 stdout.txt
+drwxr-x---. 2 _azbatch _azbatchgrp 4096 Jun 10 23:37 wd
+Process 1 received number 11 from process 0
+Process 2 received number 12 from process 1
+The value of pi is more than 3.14Hey, and it isnt 10 or 120process 0 sending
+The value of pi is more than 3.14Hey, and it isnt 10 or 120process 1 recieving now
+The value of pi is more than 3.14Hey, and it isnt 10 or 120process 2 recieving now
+Total sum = -1
+Total sum = -1
+Total sum = 36
+argc =3 from 0
+argc =3 from 1
+argc =3 from 2
+argv[0] = /mnt/resource/batch/tasks/applications/aout12021-05-16-15-43/bing
+argv[0] = /mnt/resource/batch/tasks/applications/aout12021-05-16-15-43/bing
+argv[0] = /mnt/resource/batch/tasks/applications/aout12021-05-16-15-43/bing
+argv[1] = ../numbers.txt
+argv[1] = ../numbers.txt
+argv[1] = ../numbers.txt
+argv[2] = ../numbers2.txt
+argv[2] = ../numbers2.txt
+argv[2] = ../numbers2.txt
+process 1 sending
+rank = 0 and size = 3
+rank = 1 and size = 3
+rank = 2 and size = 3
